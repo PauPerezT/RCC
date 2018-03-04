@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RCC</string>
+
+    <string-array name="colorsR">
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Gray</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="toleranceC">
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Golden</item>
+        <item>Silver</item>
+      </string-array>
+
+    <string name="op1">Choose the most significant color</string>
+    <string name="op2">Choose the least significant  color</string>
+    <string name="op3">Choose the multiplier color</string>
+    <string name="op4">Choose the tolerance color</string>
+
+
+</resources>

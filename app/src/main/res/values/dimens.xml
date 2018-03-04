@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="spinnerWeight" type="dimen" format="float">0.4</item>
+    <item name="textViewWeight" type="dimen" format="float">0.6</item>
+</resources>
