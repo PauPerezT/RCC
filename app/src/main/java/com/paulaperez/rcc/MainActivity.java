@@ -153,7 +153,7 @@ public class MainActivity extends AppCompatActivity {
                 //Toast.makeText(MainActivity.this, result, Toast.LENGTH_LONG).show();
 
                 tvResult.setText(result);
-                tvTolerance.setText(numTC);
+                tvTolerance.setText(numTC); // Esto es un cambio
             }
         });
 
